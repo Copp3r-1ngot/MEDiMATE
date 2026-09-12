@@ -1,3 +1,4 @@
+	
 # MEDiMATE — AI-Powered Patient Case-Taking Software (v0.1 Prototype)
 
 > **Smart India Hackathon 2024 / Problem Statement #26047**  
@@ -150,3 +151,4 @@ npm run dev
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) — Module breakdown, data flows, and production migration roadmap.
 - [docs/KNOWN_ISSUES.md](docs/KNOWN_ISSUES.md) — Assumptions, browser compatibility, and known limitations.
 - [docs/CHANGELOG.md](docs/CHANGELOG.md) — Version release notes.
+

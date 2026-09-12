@@ -8,12 +8,6 @@
 .env.*
 !.env.example
 
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-
 # Node
 node_modules/
 npm-debug.log*
@@ -24,6 +18,19 @@ pnpm-debug.log*
 dist/
 build/
 .next/
+.nuxt/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
 
 # IDE
 .vscode/
@@ -32,3 +39,14 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+.coverage
+.coverage.*
+
+# Temporary files
+tempCodeRunnerFile.py
